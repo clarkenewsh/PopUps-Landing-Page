@@ -1,0 +1,90 @@
+/*---------------------------------*/
+  /*  PAGE LAYOUT & RE-USUBALE*/
+/*---------------------------------*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#wrapper {
+	max-width: 1600px;      /*WRAPPER USED TO CENTRE ALIGN ALL CONTENT - MAX WIDTH SET TO MAXIMIZE USERBILITY IN LARGE DESKTOP SCREENS*/
+	margin: 0 auto;
+	width: 100%;
+
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	background-color: #fff;
+	color: 	#424242;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+.jumbotron {
+	height: 600px;
+	display: flex;
+	justify-content: center;    /*jumbotron' class to be reseud on other pages of website for hero jumbotron*/
+	align-items: center;
+	
+}
+
+
+/*---------------------------------*/
+         /* FLEX BOX NAVBAR*/
+/*---------------------------------*/
+
+
+nav ul {
+	display: flex;
+	justify-content: flex-end;
+
+
+}
+
+nav ul li {
+	list-style: none;
+	margin-top: 1em;
+	margin-right: 1em;
+
+
+
+	
+}
+
+nav ul li a  {
+	padding: 1em;
+	text-transform: uppercase;
+	color: #424242;
+
+}
+
+nav ul li a:hover {
+	color: black;
+
+
+}
+
+/*---------------------------------*/
+  /*HOME PAGE  - POPULAR ATTRACTIONS
+/*---------------------------------*/
+
+
+.home_hero {
+	background-image: url("images/logo.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+
+}
+
+
+
+.home_attractionshowcase {
+
+}

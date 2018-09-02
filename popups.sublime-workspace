@@ -1,0 +1,580 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"BORDE",
+				"border-color"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"po",
+				"pop-up"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"m",
+				"max-width"
+			],
+			[
+				"a",
+				"align-items"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"baca",
+				"background-image"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"argin",
+				"margin-bottom"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"tras",
+				"transform"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"tetx",
+				"text-align"
+			],
+			[
+				"align-",
+				"align-items"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"flex-",
+				"flex-grow"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"co",
+				"contain"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"sp",
+				"space-around"
+			],
+			[
+				"b",
+				"brand-photo"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"teext",
+				"text-decoration"
+			],
+			[
+				"A",
+				"align-items"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"s",
+				"space-around"
+			],
+			[
+				"FO",
+				"font-family"
+			],
+			[
+				"f",
+				"flex-grow"
+			],
+			[
+				"location",
+				"location-showcase"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"in",
+				"inline-flex"
+			],
+			[
+				"r",
+				"border-radius"
+			],
+			[
+				"word",
+				"word-spacing"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"about",
+				"about-page"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"n",
+				"transparent"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"ins",
+				"instagram"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build: Cancel"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/Udemy - Jonas/index.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/Udemy - Jonas/style.css",
+		"/Users/clarkenewsham/Desktop/Coding /Pop-Up Project/popups.html",
+		"/Users/clarkenewsham/Desktop/Coding /Pop-Up Project/js/hero-carasel.js",
+		"/Users/clarkenewsham/Desktop/productstyle.css",
+		"/Users/clarkenewsham/Desktop/flexproduct.html",
+		"/Users/clarkenewsham/Desktop/treehouse.html",
+		"/Users/clarkenewsham/Desktop/style.css",
+		"/Users/clarkenewsham/Desktop/Coding /flex/flex-layout1.html",
+		"/Users/clarkenewsham/Desktop/Coding /flex/layoutout1.css",
+		"/Users/clarkenewsham/Desktop/Coding /flex/flex-layout2.html",
+		"/Users/clarkenewsham/Desktop/Coding /flex/layout2.css",
+		"/Users/clarkenewsham/Desktop/Coding /flex/flex-layout2",
+		"/Users/clarkenewsham/Desktop/flexstyle.css",
+		"/Users/clarkenewsham/Desktop/flexsite.html",
+		"/Users/clarkenewsham/Desktop/flex&media.html",
+		"/Users/clarkenewsham/Desktop/Coding /Flexbox Project/flexproject.html",
+		"/Users/clarkenewsham/Desktop/Coding /Flexbox Project/style.css",
+		"/Users/clarkenewsham/Desktop/flex.html",
+		"/Users/clarkenewsham/Desktop/main.css",
+		"/Users/clarkenewsham/Desktop/flexbox.html",
+		"/Users/clarkenewsham/Desktop/flex.css",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/Udemy - Jonas/Grid.css",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/new-portfolio.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/Udemy - Colt Steele/landingpage.html",
+		"/Users/clarkenewsham/Desktop/Coding /Portfolio Project/Portfolio.html",
+		"/Users/clarkenewsham/Desktop/Coding /Portfolio Project/style.css",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/Udemy - Colt Steele/portfoliopractice.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/Udemy - Colt Steele/portfolio.css",
+		"/Users/clarkenewsham/Desktop/Coding /new-portfolio.html",
+		"/Users/clarkenewsham/Desktop/Coding /style.css",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/csspractice.css",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/practicepositioning.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/portfoliopractice.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/portfolio.css",
+		"/Users/clarkenewsham/Downloads/startbootstrap-creative-gh-pages/css/creative.css",
+		"/Users/clarkenewsham/Downloads/startbootstrap-creative-gh-pages/index.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/elysse.css",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/landingpage.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/grid.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/havbar.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/blogtask.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/blogstyle.css",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/photogrid.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/photo.css",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/board.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/board.css",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/boxmodel.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/boxmodelstyle.css",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/fonts.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/stylesfonts.css",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/cssselectorsexercise.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/selectors.css",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/Specificity.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/styles.css",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/cssselectors.css",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/demo.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/to do list.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/todos.css",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/about me css.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/colors-borders.css",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/colors&borders.css",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/index.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/forms.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/dropdown & radio buttons.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/complete form exercise.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/rustysteele.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/div&spans.html",
+		"/Users/clarkenewsham/Desktop/Coding /Udemy - Web Developer Bootcamp/Udemy course builds/Pokeman chart.html",
+		"/Users/clarkenewsham/Desktop/Coding /First Build/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"\">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "popups.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
